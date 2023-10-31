@@ -40,7 +40,7 @@ To use these libraries, first install it using pip:
    import zipfile #extract zip file
    import requests
    from bs4 import BeautifulSoup
-
+<!-- End of console commands -->
 
 You may also need to install specific drivers or additional software depending on your use case. For example, to use Selenium, you'll need to download and configure ChromeDriver 
 (https://sites.google.com/chromium.org/driver/).
