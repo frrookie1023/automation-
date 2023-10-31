@@ -16,11 +16,9 @@ You need to install the following libraries and dependencies to use this project
 
 To use these libraries, first install it using pip:
 
-.. code-block:: console
+```bash
 
    (.venv) $ pip install selenium pandas ipywidgets requests beautifulsoup4
-.. code-block:: python
-
    from selenium import webdriver
    from selenium.webdriver.common.keys import Keys
    import time
